@@ -1,0 +1,13 @@
+# 실행 결과·캐시
+runs/
+__pycache__/
+*.pyc
+*.bak*
+*.log
+
+# 개인 작업용 요구사항·생성물 (공개 저장소에서 제외)
+requirement.txt
+*_requirement.md
+generated_*
+pipeline.generated.py
+audit_*.py
